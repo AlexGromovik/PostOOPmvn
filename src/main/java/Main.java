@@ -1,3 +1,6 @@
+import ru.netology.javaqa.PostOOPmvn.datasources.Post;
+import ru.netology.javaqa.PostOOPmvn.datasources.FormDate;
+
 public class Main {
     public static void main(String[] args) {
         Post post = new Post();

@@ -1,3 +1,5 @@
+package ru.netology.javaqa.PostOOPmvn.datasources;
+
 public class Post {
     public String name;
     public String patronymic;
